@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [the-swerve/linear-partitioning](http://github.com/the-swerve/linear-partitioning). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/the-swerve-linear-partitioning`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # linear partitioning
 
 See http://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK2/NODE45.HTM

@@ -1,21 +1,7 @@
 {
-  "name": "linear-partitioning",
-  "version": "0.3.1",
+  "name": "the-swerve-linear-partitioning",
   "description": "Given an array of numbers, partition them into a number of buckets, preserving order, where the ranges of each bucket are as close as possible.",
-  "main": "linear-partitioning.js",
-  "dependencies": {},
-  "devDependencies": {
-		"repeat-function": "~0.2.1",
-    "mocha": "~1.13.0",
-		"bench": "~0.3.5"
-  },
-  "scripts": {
-    "test": "mocha --ui bdd --reporter spec ./test.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/the-swerve/linear-partitioning.git"
-  },
+  "version": "0.3.1",
   "keywords": [
     "linear",
     "partition",
@@ -23,9 +9,7 @@
     "problem",
     "buckets"
   ],
-  "author": "jay r bolton <jayrbolton@gmail.com> (http://jayrbolton.com/)",
-  "license": "BSD-2-Clause",
-  "bugs": {
-    "url": "https://github.com/the-swerve/linear-partitioning/issues"
-  }
+  "main": "linear-partitioning.js",
+  "dependencies": {},
+  "license": "MIT"
 }
